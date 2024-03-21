@@ -1,0 +1,176 @@
+
+EXPENSE TRACKING
+12000
+5600
+TOTAL:	17600
+-----------------------------------------------------------------------
+INCOME TRACKING
+1  crypto :23000
+2  dropshipping :1200
+3  softwaredeveloper :43000
+-----------------------------------------------------------------------
+FINANCIAL REPORT
+ 
+Rent: 3200
+Utilities: 700
+Loan/EMIs: 500
+Electricity: 300
+Gasoline: 800
+Miscellaneous: 3000
+Savings: 3501
+
+-----------------------------------------------------------------------
+EXPENSE TRACKING
+23000
+2000
+TOTAL:	25000
+-----------------------------------------------------------------------
+INCOME TRACKING
+1  crypto :23000
+2  dropshipping :12000
+3  softwaredeveloper :43000
+TOTAL:	78000
+-----------------------------------------------------------------------
+FINANCIAL REPORT
+ 
+Rent: 3000
+Utilities: 700
+Loan/EMIs: 400
+Electricity: 500
+Gasoline: 800
+Miscellaneous: 5000
+Savings: 32601
+
+ TOTAL:	43001
+-----------------------------------------------------------------------
+INCOME TRACKING
+1  sponsor :23000
+2  workshop :3400
+3  partnership :50000
+TOTAL:	76400
+-----------------------------------------------------------------------
+FINANCIAL REPORT
+ 
+Rent: 20000
+Utilities: 10000
+Loan/EMIs: 23000
+Electricity: 1000
+Gasoline: 800
+Miscellaneous: 1000
+Savings: 201
+
+ TOTAL:	56001
+-----------------------------------------------------------------------
+FINANCIAL REPORT
+ 
+Rent: 13000
+Utilities: 20000
+Loan/EMIs: 1800
+Electricity: 2000
+Gasoline: 1000
+Miscellaneous: 2000
+Savings: 10201
+
+ TOTAL:	50000
+-----------------------------------------------------------------------
+FINANCIAL REPORT
+ 
+Rent: 200
+Utilities: 300
+Loan/EMIs: 100
+Electricity: 50
+Gasoline: 50
+Miscellaneous: 100
+Savings: 201
+
+ TOTAL:	1001
+-----------------------------------------------------------------------
+FINANCIAL REPORT
+ 
+Rent: 300
+Utilities: 100
+Loan/EMIs: 100
+Electricity: 100
+Gasoline: 100
+Miscellaneous: 100
+Savings: 201
+
+ TOTAL:	1001
+-----------------------------------------------------------------------
+FINANCIAL REPORT
+ 
+Rent: 100
+Utilities: 100
+Loan/EMIs: 100
+Electricity: 100
+Gasoline: 100
+Miscellaneous: 100
+Savings: 400
+
+ TOTAL:	1000
+-----------------------------------------------------------------------
+FINANCIAL REPORT
+ 
+BALANCE BEFORE EXPENDITURE:	2000
+Rent: 1000
+Utilities: 100
+Loan/EMIs: 100
+Electricity: 100
+Gasoline: 100
+Miscellaneous: 100
+Savings: 500
+
+-----------------------------------------------------------------------
+EXPENSE TRACKING
+2300
+TOTAL:	2300
+-----------------------------------------------------------------------
+INCOME TRACKING
+1  FREE :0
+TOTAL:	0
+-----------------------------------------------------------------------
+INCOME TRACKING
+1  FREELANCE :23000
+2  EDITING :1000
+3  INTERNSHIP :23000
+TOTAL:	47000
+-----------------------------------------------------------------------
+FINANCIAL REPORT
+ 
+BALANCE BEFORE EXPENDITURE:	5000
+Rent: 500
+Utilities: 500
+Loan/EMIs: 200
+Electricity: 400
+Gasoline: 800
+Miscellaneous: 2000
+Savings: 600
+
+-----------------------------------------------------------------------
+
+EXPENSE TRACKING
+2300
+TOTAL:	2300
+-----------------------------------------------------------------------
+INCOME TRACKING
+1  FREELANCE :23000
+2  EDITING :1000
+3  INTERNSHIP :23000
+TOTAL:	47000
+-----------------------------------------------------------------------
+FINANCIAL REPORT
+ 
+BALANCE BEFORE EXPENDITURE:	5000
+Rent: 500
+Utilities: 500
+Loan/EMIs: 200
+Electricity: 400
+Gasoline: 800
+Miscellaneous: 2000
+Savings: 600
+
+-----------------------------------------------------------------------EXPENSE TRACKING
+777777
+1000
+TOTAL:	778777
+-----------------------------------------------------------------------
